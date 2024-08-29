@@ -28,6 +28,14 @@ This list includes conferences and workshops focused on reducing emissions in IT
 - **Location**: Rotterdam
 - **Type**: Academic Conference
 
+### loco2024
+
+- **URL**: https://locos.codeberg.page/loco2024/
+- **Date**: 03.12.24
+- **Call for papers Date**: 24.09.24
+- **Location**: Glasgow
+- **Type**: Academic Workshop
+
 ### wcst
 
 - **URL**: https://www.wcst.org/
