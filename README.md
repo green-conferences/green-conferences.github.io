@@ -91,3 +91,11 @@ This list includes conferences and workshops focused on reducing emissions in IT
 - **Call for papers Date**: N/A
 - **Location**: Potsdam
 - **Type**: Academic Conference
+
+### Green IO
+
+- **URL**: https://greenio.tech/conference/9/london-2024-september-green-it
+- **Date**: 19.09.24
+- **Call for papers Date:** N/A
+- **Location**: London
+- **Type**: Industry Conference
