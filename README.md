@@ -99,3 +99,11 @@ This list includes conferences and workshops focused on reducing emissions in IT
 - **Call for papers Date:** N/A
 - **Location**: London
 - **Type**: Industry Conference
+
+### FORC (Foundations of Responsible Computing)
+
+- **URL**: https://responsiblecomputing.org/
+- **Date**: June 2025
+- **Call for papers Date:** TBD, 2025
+- **Location**: Stanford
+- **Type**: Academic Conference
